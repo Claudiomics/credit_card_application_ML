@@ -14,16 +14,18 @@
 
 ## Introduction 
 
-This is the first machine learning lab I've completed, as an automated service to approve or deny a credit card approval request.
+This is the first machine learning lab I completed, as an automated service to predict wether a credit card application will be approved or denied. The code is outlined in ```Credit_Card_Lab.ipynb``` with lots of notes for my own learning and development. The original lab document supplied by Peregrine is the ```notebook.ipynb```.
+
+I will be typing up my project and what I've learned on this README.md document.
 
 ## Installation 
 
 Download the .ipynb file and add it to your project folder.
 
 ```
-notebook (2).ipynb
+notebook.ipynb
 ```
-Download the .csv file containing the 
+Download the .csv file containing the  
 
 ## Steps
 
