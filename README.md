@@ -4,12 +4,16 @@
 1. [Introduction](#introduction)
 2. [Installation](#installation)
 3. [Steps](#steps)
-   1. [](#)
-   2. [](#)
-   3. [](#)
-   4. [](#)
-   5. [](#)
-   6. [Conclusion](#conclusion)
+   1. [Data Loading and Exploration](#data-loading-and-exploration)
+   2. [Data Preparation and Preprocessing](#data-preparation-and-preprocessing)
+         1. [Splitting into Train and Test Sets](#splitting-into-train-and-test-sets)
+         2. [Cleaning Missing Values](#cleaning-missing-values)
+         3. [Feature Selection by Correlation Matrix](#feature-selection-by-correlation-matrix)
+         4. [Scale Features](#scale-features)
+   3. [Fitting the Model to the Train Set](#fitting-the-model-to-the-train-set)
+   4. [Evaluate Model Accuracy](#evaluate-model-accuracy)
+   5. [Improving the Model](#improving-the-model)
+   7. [Conclusion](#conclusion)
 7. [Licence Information](#licence-information)
 
 ## Introduction 
@@ -77,13 +81,26 @@ Select the Python environment you just created (venv) within your kernel, and yo
 
 ## Steps
 
-### 
-###
-###
-###
-###
-###
+### 1. Data Loading and Exploration
+
+importance of visualising the data.
+
+### 2. Data Preparation and Preprocessing
+
+#### 1. Splitting into Train and Test Sets
+
+#### 2. Cleaning Missing Values
+
+#### 3. Feature Selection by Correlation Matrix
+
+#### 4. Scale Features 
+
+### 3. Fitting the Model to the Train Set
+
+### 4. Evaluate Model Accuracy 
+
+### 4. Improving the Model 
 
 ## Conclusion 
 
-
+In conclusion, this project is a machine learning model to automate the process of credit card application approvals. When this task is performed manually by humans, it is a lengthy proecss which is prone to errors.
